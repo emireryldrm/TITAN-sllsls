@@ -1,0 +1,49 @@
+{
+  "name": "TITAN",
+  "version": "0.0.1",
+  "description": "By Emir",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "dabi-images": "^2.7.5",
+    "dbapi": "^0.2.1",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.12.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "fs-extra": "^9.0.1",
+    "generate-password": "^1.6.0",
+    "html": "^1.0.0",
+    "jimp": "^0.16.1",
+    "math-expression-evaluator": "^1.3.7",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.11.20",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "quick.db": "^7.1.2",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "steam-provider": "^0.2.0",
+    "user-instagram": "^2.1.9",
+    "wio.db": "^4.0.17",
+    "burc.js": "^1.1.3",
+    "database-cleaner": "^1.3.0",
+    "youtube-dl": "^3.5.0",
+    "simple-youtube-api": "^5.2.1",
+    "discordjs-ytdl": "^2.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ],
+  "license": "MIT"
+}
